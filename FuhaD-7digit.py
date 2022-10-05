@@ -94,7 +94,7 @@ checkpoint = []
 successfull = []
 id = []
 os.system("clear")
-print  """
+print  ("""
       💙💙                    💙💙 
     💙🍁🍁💙   💙🍁🍁💙
   💙 🍁🍁🍁💙🍁🍁🍁 💙
@@ -111,7 +111,7 @@ print  """
                ❤🍃🍃❤
                    ❤ ❤ 
                       ❤ 
- """
+ """)
 def login():
 	os.system('clear')
 	try:
